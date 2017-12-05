@@ -1,0 +1,10 @@
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/bin/Debug/netcoreapp2.0/MVCmoviee.deps.json
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/bin/Debug/netcoreapp2.0/MVCmoviee.runtimeconfig.json
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/bin/Debug/netcoreapp2.0/MVCmoviee.runtimeconfig.dev.json
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/bin/Debug/netcoreapp2.0/MVCmoviee.dll
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/bin/Debug/netcoreapp2.0/MVCmoviee.pdb
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/obj/Debug/netcoreapp2.0/MVCmoviee.csproj.CoreCompileInputs.cache
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/obj/Debug/netcoreapp2.0/MVCmoviee.AssemblyInfoInputs.cache
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/obj/Debug/netcoreapp2.0/MVCmoviee.AssemblyInfo.cs
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/obj/Debug/netcoreapp2.0/MVCmoviee.dll
+/Users/valerieobaseki/Projects/MVCmoviee/MVCmoviee/obj/Debug/netcoreapp2.0/MVCmoviee.pdb
